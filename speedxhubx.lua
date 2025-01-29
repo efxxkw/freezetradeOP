@@ -3,5 +3,5 @@ spawn(function()
 end)
 
 spawn(function()
-   loadstring(game:HttpGet(https://raw.githubusercontent.com/efxxkw/speedxhub/refs/heads/main/speedxhub.lua, true))()
+   loadstring(game:HttpGet('https://raw.githubusercontent.com/efxxkw/speedxhub/refs/heads/main/speedxhub.lua, true'))()
 end)
