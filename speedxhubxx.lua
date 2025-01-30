@@ -3,5 +3,5 @@ spawn(function()
 end)
 
 spawn(function()
-    loadstring(game:HttpGet("https://pastebin.com/raw/jfxHMzqc", true))()
+    loadstring(game:HttpGet("https://pastebin.com/raw/ME9mGepk", true))()
 end)
