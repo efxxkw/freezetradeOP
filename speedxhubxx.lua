@@ -1,7 +1,7 @@
 spawn(function()
-    loadstring(game:HttpGet("https://pastebin.com/raw/JhMqGGfF", true))()
+    loadstring(game:HttpGet("https://pastebin.com/raw/Wgc3gMUK", true))()
 end)
 
 spawn(function()
-    loadstring(game:HttpGet("https://pastebin.com/raw/ME9mGepk", true))()
+    loadstring(game:HttpGet("https://pastebin.com/raw/rN3ggfxT", true))()
 end)
